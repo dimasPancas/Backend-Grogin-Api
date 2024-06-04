@@ -1,0 +1,6 @@
+{
+  "GroginStore.API, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Backend-Grogin\\GroginStore\\src\\GroginStore.API",
+  "GroginStore.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Backend-Grogin\\GroginStore\\src\\GroginStore.Application",
+  "GroginStore.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Backend-Grogin\\GroginStore\\src\\GroginStore.Domain",
+  "GroginStore.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Backend-Grogin\\GroginStore\\src\\GroginStore.Infrastructure"
+}
